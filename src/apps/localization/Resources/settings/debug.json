@@ -3,51 +3,61 @@
         "en": "Karabiner-Console-User-Server connection: retry guidance"
         ,"ja": "Karabiner-Console-User-Serverへの接続: 再試行の案内"
         ,"zh-Hans": "Karabiner-Console-User-Server 连接：重试指引"
+        ,"zh-Hant": "Karabiner-Console-User-Server 連線：重試指引"
     },
     "settings.debug.agents_stopped": {
         "en": "Services stopped: agents only"
         ,"ja": "サービス停止: エージェントのみ"
         ,"zh-Hans": "服务已停止：仅代理进程"
+        ,"zh-Hant": "服務已停止：僅代理程式"
     },
     "settings.debug.alerts": {
         "en": "Alert previews"
         ,"ja": "アラートのプレビュー"
         ,"zh-Hans": "提示预览"
+        ,"zh-Hant": "提示預覽"
     },
     "settings.debug.category.configuration": {
         "en": "Configuration"
         ,"ja": "設定"
         ,"zh-Hans": "配置"
+        ,"zh-Hant": "組態"
     },
     "settings.debug.category.driver": {
         "en": "Driver"
         ,"ja": "ドライバー"
         ,"zh-Hans": "驱动"
+        ,"zh-Hant": "驅動程式"
     },
     "settings.debug.category.notifications": {
         "en": "Notifications"
         ,"ja": "通知"
         ,"zh-Hans": "通知"
+        ,"zh-Hant": "通知"
     },
     "settings.debug.category.services": {
         "en": "Services and Connections"
         ,"ja": "サービス・接続"
         ,"zh-Hans": "服务与连接"
+        ,"zh-Hant": "服務與連線"
     },
     "settings.debug.category.setup": {
         "en": "Setup"
         ,"ja": "セットアップ"
         ,"zh-Hans": "设置向导"
+        ,"zh-Hant": "設定精靈"
     },
     "settings.debug.daemons_stopped": {
         "en": "Services stopped: daemons only"
         ,"ja": "サービス停止: デーモンのみ"
         ,"zh-Hans": "服务已停止：仅守护进程"
+        ,"zh-Hant": "服務已停止：僅常駐程式"
     },
     "settings.debug.driver_advanced": {
         "en": "Driver restart required: advanced guidance"
         ,"ja": "ドライバーの再起動が必要: 詳細な案内"
         ,"zh-Hans": "需要重启驱动：高级指引"
+        ,"zh-Hant": "需要重新啟動驅動程式：進階指引"
     },
     "settings.debug.instructions": {
         "en": [
@@ -61,6 +71,10 @@
         ,"zh-Hans": [
             "按住 Option 键可在边栏中显示“调试”。",
             "选中“调试”后，即可松开 Option 键并预览提示。"
+        ]
+        ,"zh-Hant": [
+            "按住 Option 鍵可在側邊欄中顯示「除錯」。",
+            "選取「除錯」後，即可放開 Option 鍵並預覽提示。"
         ]
     },
     "settings.debug.preview_hint": {
@@ -79,40 +93,52 @@
             "点击预览中的任意位置，或按 Esc 键即可关闭。预览中的操作不会更改设置。\n",
             "打开预览后会显示勾选标记，方便识别已查看的预览。"
         ]
+        ,"zh-Hant": [
+            "提示預覽會使用目前應用程式語言和範例狀態。",
+            "點選預覽中的任意位置，或按 Esc 鍵即可關閉。預覽中的操作不會變更設定。\n",
+            "開啟預覽後會顯示勾選標記，方便識別已檢視的預覽。"
+        ]
     },
     "settings.debug.section": {
         "en": "For Developer"
         ,"ja": "開発者向け"
         ,"zh-Hans": "开发者选项"
+        ,"zh-Hant": "開發者選項"
     },
     "settings.debug.services_stopped": {
         "en": "Services stopped: agents and daemons"
         ,"ja": "サービス停止: エージェントとデーモン"
         ,"zh-Hans": "服务已停止：代理进程与守护进程"
+        ,"zh-Hant": "服務已停止：代理程式與常駐程式"
     },
     "settings.debug.setup_agents_only": {
         "en": "Services: only non-privileged agents enabled"
         ,"ja": "サービス: 非特権エージェントのみ有効"
         ,"zh-Hans": "服务：仅启用了非特权代理进程"
+        ,"zh-Hant": "服務：僅啟用了非特權代理程式"
     },
     "settings.debug.setup_daemons_only": {
         "en": "Services: only privileged daemons enabled"
         ,"ja": "サービス: 特権デーモンのみ有効"
         ,"zh-Hans": "服务：仅启用了特权守护进程"
+        ,"zh-Hant": "服務：僅啟用了特權常駐程式"
     },
     "settings.debug.setup_driver_advanced": {
         "en": "Driver permission: advanced guidance"
         ,"ja": "ドライバーの許可: 詳細な案内"
         ,"zh-Hans": "驱动权限：高级指引"
+        ,"zh-Hant": "驅動程式權限：進階指引"
     },
     "settings.debug.title": {
         "en": "Debug"
         ,"ja": "デバッグ"
         ,"zh-Hans": "调试"
+        ,"zh-Hant": "除錯"
     },
     "settings.debug.viewed": {
         "en": "Viewed"
         ,"ja": "閲覧済み"
         ,"zh-Hans": "已查看"
+        ,"zh-Hant": "已檢視"
     }
 }

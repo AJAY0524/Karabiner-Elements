@@ -3,10 +3,12 @@
         "en": "Add divider"
         ,"ja": "区切りを追加"
         ,"zh-Hans": "添加分隔线"
+        ,"zh-Hant": "新增分隔線"
     },
     "settings.log.current_time": {
         "en": "Current time: {time}"
         ,"ja": "現在時刻: {time}"
         ,"zh-Hans": "当前时间：{time}"
+        ,"zh-Hant": "目前時間：{time}"
     }
 }

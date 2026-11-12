@@ -3,185 +3,222 @@
         "en": "Add predefined rule"
         ,"ja": "定義済みのルールを追加"
         ,"zh-Hans": "添加预定义规则"
+        ,"zh-Hant": "新增預先定義規則"
     },
     "settings.complex_modifications.add_rule": {
         "en": "Add your own rule"
         ,"ja": "自分でルールを作成"
         ,"zh-Hans": "添加自定义规则"
+        ,"zh-Hant": "新增自訂規則"
     },
     "settings.complex_modifications.add_script": {
         "en": "Add your own rule using JavaScript"
         ,"ja": "JavaScriptでルールを作成"
         ,"zh-Hans": "使用 JavaScript 添加自定义规则"
+        ,"zh-Hant": "使用 JavaScript 新增自訂規則"
     },
     "settings.complex_modifications.assets.enabled_hint": {
         "en": "Enabled rules are marked with ◉."
         ,"ja": "有効化されている設定には◉がついています。"
         ,"zh-Hans": "已启用的规则会显示◉标记。"
+        ,"zh-Hant": "已啟用的規則會顯示◉標記。"
     },
     "settings.complex_modifications.assets.filter": {
         "en": "Filter"
         ,"ja": "絞り込み"
         ,"zh-Hans": "筛选"
+        ,"zh-Hant": "篩選"
     },
     "settings.complex_modifications.assets.imported_at": {
         "en": "Imported at {date}"
         ,"ja": "取り込み日時: {date}"
         ,"zh-Hans": "导入时间：{date}"
+        ,"zh-Hant": "匯入時間：{date}"
     },
     "settings.complex_modifications.assets.more_rules": {
         "en": "Import more rules from the Internet (Open a web browser)"
         ,"ja": "インターネットからほかのルールを取り込む（Webブラウザーを開く）"
         ,"zh-Hans": "从互联网导入更多规则（打开网页浏览器）"
+        ,"zh-Hant": "從網際網路匯入更多規則（開啟網頁瀏覽器）"
     },
     "settings.complex_modifications.disabled": {
         "en": "disabled"
         ,"ja": "無効"
         ,"zh-Hans": "已停用"
+        ,"zh-Hant": "已停用"
     },
     "settings.complex_modifications.editor.choose": {
         "en": "Choose"
         ,"ja": "選択"
         ,"zh-Hans": "选择"
+        ,"zh-Hant": "選擇"
     },
     "settings.complex_modifications.editor.choose_editor": {
         "en": "Choose editor"
         ,"ja": "エディターを選択"
         ,"zh-Hans": "选择编辑器"
+        ,"zh-Hant": "選擇編輯器"
     },
     "settings.complex_modifications.editor.content_too_large": {
         "en": "Content is too large to edit. Please edit karabiner.json directly with your favorite editor."
         ,"ja": "内容が大きすぎるため編集できません。お好みのエディターでkarabiner.jsonを直接編集してください。"
         ,"zh-Hans": "内容过大，无法在此编辑。请使用你喜欢的编辑器直接编辑 karabiner.json。"
+        ,"zh-Hant": "內容過大，無法在此編輯。請使用您喜歡的編輯器直接編輯 karabiner.json。"
     },
     "settings.complex_modifications.editor.external_sync_hint": {
         "en": "Changes saved in the external editor are automatically reflected while this window is open."
         ,"ja": "このウィンドウを開いている間は、外部エディターで保存した変更が自動的に反映されます。"
         ,"zh-Hans": "此窗口打开期间，在外部编辑器中保存的更改会自动同步。"
+        ,"zh-Hant": "此視窗開啟期間，在外部編輯器中儲存的變更會自動同步。"
     },
     "settings.complex_modifications.editor.log": {
         "en": "Log"
         ,"ja": "ログ"
         ,"zh-Hans": "日志"
+        ,"zh-Hant": "記錄"
     },
     "settings.complex_modifications.editor.new_rule_hint": {
         "en": "Edit the JSON content and press the Save button."
         ,"ja": "JSONの内容を編集して保存ボタンを押してください。"
         ,"zh-Hans": "编辑 JSON 内容后点击“保存”按钮。"
+        ,"zh-Hant": "編輯 JSON 內容後按一下「儲存」按鈕。"
     },
     "settings.complex_modifications.editor.new_script_hint": {
         "en": "Edit the script content and press the Save button."
         ,"ja": "スクリプトの内容を編集して保存ボタンを押してください。"
         ,"zh-Hans": "编辑脚本内容后点击“保存”按钮。"
+        ,"zh-Hant": "編輯腳本內容後按一下「儲存」按鈕。"
     },
     "settings.complex_modifications.editor.no_log": {
         "en": "(no log output)"
         ,"ja": "（ログ出力なし）"
         ,"zh-Hans": "（无日志输出）"
+        ,"zh-Hant": "（無記錄輸出）"
     },
     "settings.complex_modifications.editor.open_external": {
         "en": "Open in external editor"
         ,"ja": "外部エディターで開く"
         ,"zh-Hans": "在外部编辑器中打开"
+        ,"zh-Hant": "在外部編輯器中開啟"
     },
     "settings.complex_modifications.editor.open_named": {
         "en": "Open in {name}"
         ,"ja": "{name}で開く"
         ,"zh-Hans": "在 {name} 中打开"
+        ,"zh-Hant": "在 {name} 中開啟"
     },
     "settings.complex_modifications.editor.profile_changed": {
         "en": "The editor was closed because the profile changed."
         ,"ja": "プロファイルが変更されたため、エディターを閉じました。"
         ,"zh-Hans": "由于配置方案已更改，编辑器已关闭。"
+        ,"zh-Hant": "由於設定檔已變更，編輯器已關閉。"
     },
     "settings.complex_modifications.editor.result": {
         "en": "Script execution result"
         ,"ja": "スクリプトの実行結果"
         ,"zh-Hans": "脚本执行结果"
+        ,"zh-Hant": "腳本執行結果"
     },
     "settings.complex_modifications.editor.rules_changed": {
         "en": "The editor was closed because the selected profile or Complex Modifications rules changed."
         ,"ja": "選択中のプロファイルまたは高度なキー変換のルールが変更されたため、エディターを閉じました。"
         ,"zh-Hans": "由于当前选中的配置方案或复杂修改规则已更改，编辑器已关闭。"
+        ,"zh-Hant": "由於目前選取的設定檔或複雜修改規則已變更，編輯器已關閉。"
     },
     "settings.complex_modifications.editor.tmp_directory_error": {
         "en": "Failed to get user tmp directory."
         ,"ja": "ユーザーの一時ディレクトリを取得できませんでした。"
         ,"zh-Hans": "获取用户临时目录失败。"
+        ,"zh-Hant": "取得使用者暫存目錄失敗。"
     },
     "settings.complex_modifications.filter": {
         "en": "Filter by description or rule content"
         ,"ja": "説明やルールの内容で絞り込み"
         ,"zh-Hans": "按描述或规则内容筛选"
+        ,"zh-Hant": "按描述或規則內容篩選"
     },
     "settings.complex_modifications.for_experts": {
         "en": "For expert"
         ,"ja": "エキスパート向け"
         ,"zh-Hans": "供有经验的用户使用"
+        ,"zh-Hant": "供有經驗的使用者使用"
     },
     "settings.complex_modifications.import.invalid_utf8": {
         "en": "The downloaded file is not valid UTF-8."
         ,"ja": "ダウンロードしたファイルは有効なUTF-8ではありません。"
         ,"zh-Hans": "下载的文件不符合 UTF-8 编码格式。"
+        ,"zh-Hant": "下載的檔案不符合 UTF-8 編碼格式。"
     },
     "settings.complex_modifications.import.source": {
         "en": "Import file from {url}"
         ,"ja": "{url}からファイルを取り込む"
         ,"zh-Hans": "从 {url} 导入文件"
+        ,"zh-Hant": "從 {url} 匯入檔案"
     },
     "settings.complex_modifications.import.unsupported": {
         "en": "The downloaded file is not supported."
         ,"ja": "ダウンロードしたファイルはサポートされていません。"
         ,"zh-Hans": "下载的文件不受支持。"
+        ,"zh-Hant": "下載的檔案不受支援。"
     },
     "settings.complex_modifications.move_to_bottom": {
         "en": "Move item to bottom"
         ,"ja": "末尾に移動"
         ,"zh-Hans": "移至底部"
+        ,"zh-Hant": "移至底部"
     },
     "settings.complex_modifications.move_to_top": {
         "en": "Move item to top"
         ,"ja": "先頭に移動"
         ,"zh-Hans": "移至顶部"
+        ,"zh-Hant": "移至頂部"
     },
     "settings.complex_modifications.parameters.basic": {
         "en": "type:basic parameters"
         ,"ja": "basicのパラメーター"
         ,"zh-Hans": "基本映射参数（type:basic）"
+        ,"zh-Hant": "基本對應參數（type:basic）"
     },
     "settings.complex_modifications.parameters.basic.simultaneous_threshold_milliseconds": {
         "en": "simultaneous_threshold_milliseconds:"
         ,"ja": "simultaneous_threshold_milliseconds:"
         ,"zh-Hans": "同时按下判定时限（毫秒，simultaneous_threshold_milliseconds）："
+        ,"zh-Hant": "同時按下判定時限（毫秒，simultaneous_threshold_milliseconds）："
     },
     "settings.complex_modifications.parameters.basic.to_delayed_action_delay_milliseconds": {
         "en": "to_delayed_action_delay_milliseconds:"
         ,"ja": "to_delayed_action_delay_milliseconds:"
         ,"zh-Hans": "延迟操作等待时间（毫秒，to_delayed_action_delay_milliseconds）："
+        ,"zh-Hant": "延遲操作等待時間（毫秒，to_delayed_action_delay_milliseconds）："
     },
     "settings.complex_modifications.parameters.basic.to_if_alone_timeout_milliseconds": {
         "en": "to_if_alone_timeout_milliseconds:"
         ,"ja": "to_if_alone_timeout_milliseconds:"
         ,"zh-Hans": "单独按下判定时限（毫秒，to_if_alone_timeout_milliseconds）："
+        ,"zh-Hant": "單獨按下判定時限（毫秒，to_if_alone_timeout_milliseconds）："
     },
     "settings.complex_modifications.parameters.basic.to_if_held_down_threshold_milliseconds": {
         "en": "to_if_held_down_threshold_milliseconds:"
         ,"ja": "to_if_held_down_threshold_milliseconds:"
         ,"zh-Hans": "长按判定时间（毫秒，to_if_held_down_threshold_milliseconds）："
+        ,"zh-Hant": "長按判定時間（毫秒，to_if_held_down_threshold_milliseconds）："
     },
     "settings.complex_modifications.parameters.mouse_motion_to_scroll": {
         "en": "type:mouse_motion_to_scroll parameters"
         ,"ja": "mouse_motion_to_scrollのパラメーター"
         ,"zh-Hans": "鼠标移动转滚动参数（type:mouse_motion_to_scroll）"
+        ,"zh-Hant": "滑鼠移動轉捲動參數（type:mouse_motion_to_scroll）"
     },
     "settings.complex_modifications.parameters.mouse_motion_to_scroll.speed": {
         "en": "speed:"
         ,"ja": "speed:"
         ,"zh-Hans": "滚动速度（speed）："
+        ,"zh-Hant": "捲動速度（speed）："
     },
     "settings.complex_modifications.position": {
         "en": "Position"
         ,"ja": "位置"
         ,"zh-Hans": "位置"
+        ,"zh-Hant": "位置"
     }
 }
