@@ -59,3 +59,4 @@ You can check alerts in the selected language.
 ## Language-specific guidelines
 
 - [Japanese terminology and style](STYLE_GUIDE.ja.md)
+- [Traditional Chinese terminology and style](STYLE_GUIDE.zh-Hant.md)

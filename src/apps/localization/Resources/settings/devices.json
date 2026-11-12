@@ -3,255 +3,306 @@
         "en": "Device Address: {address}"
         ,"ja": "デバイスアドレス: {address}"
         ,"zh-Hans": "设备地址：{address}"
+        ,"zh-Hant": "裝置位址：{address}"
     },
     "settings.devices.all": {
         "en": "For all devices"
         ,"ja": "すべてのデバイス"
         ,"zh-Hans": "所有设备通用设置"
+        ,"zh-Hant": "所有裝置通用設定"
     },
     "settings.devices.apple_pointing_unsupported": {
         "en": "Apple pointing devices are not supported"
         ,"ja": "Apple製ポインティングデバイスはサポートされていません"
         ,"zh-Hans": "不支持 Apple 指针设备"
+        ,"zh-Hant": "不支援 Apple 指標裝置"
     },
     "settings.devices.caps_lock_led": {
         "en": "Manipulate caps lock LED"
         ,"ja": "caps lock LEDを制御"
         ,"zh-Hans": "控制大写锁定（Caps Lock）指示灯"
+        ,"zh-Hant": "控制大寫鎖定（Caps Lock）指示燈"
     },
     "settings.devices.disable_built_in": {
         "en": "Disable the built-in keyboard while this device is connected"
         ,"ja": "このデバイスの接続中は内蔵キーボードを無効にする"
         ,"zh-Hans": "连接此设备时停用内建键盘"
+        ,"zh-Hant": "連線此裝置時停用內建鍵盤"
     },
     "settings.devices.disconnected_count": {
         "en": "There are {count} other settings for devices that are not currently connected"
         ,"ja": "現在接続されていないデバイスの設定がほかに{count}件あります"
         ,"zh-Hans": "另有 {count} 项设置属于当前未连接的设备"
+        ,"zh-Hant": "另有 {count} 項設定屬於目前未連線的裝置"
     },
     "settings.devices.fallback_hint": {
         "en": "Key events from this device are handled via the CGEventTap fallback"
         ,"ja": "このデバイスのキーイベントはCGEventTapフォールバックで処理されます"
         ,"zh-Hans": "此设备的按键事件由 CGEventTap 后备方案处理"
+        ,"zh-Hant": "此裝置的按鍵事件由 CGEventTap 備援方案處理"
     },
     "settings.devices.gamepad.continued_interval": {
         "en": "Continued movement interval milliseconds:"
         ,"ja": "移動を継続する間隔（ミリ秒）:"
         ,"zh-Hans": "持续移动间隔（毫秒）："
+        ,"zh-Hant": "持續移動間隔（毫秒）："
     },
     "settings.devices.gamepad.continued_threshold": {
         "en": "Continued movement absolute magnitude threshold:"
         ,"ja": "移動を継続する絶対値のしきい値:"
         ,"zh-Hans": "持续移动绝对幅度阈值："
+        ,"zh-Hant": "持續移動絕對幅度臨界值："
     },
     "settings.devices.gamepad.deadzone": {
         "en": "deadzone:"
         ,"ja": "デッドゾーン:"
         ,"zh-Hans": "摇杆死区："
+        ,"zh-Hant": "搖桿死區："
     },
     "settings.devices.gamepad.delta_threshold": {
         "en": "Delta magnitude detection threshold:"
         ,"ja": "変化量の検出しきい値:"
         ,"zh-Hans": "增量幅度检测阈值："
+        ,"zh-Hant": "增量幅度偵測臨界值："
     },
     "settings.devices.gamepad.horizontal_formula": {
         "en": "horizontal wheel formula"
         ,"ja": "横ホイールの式"
         ,"zh-Hans": "水平滚动计算公式"
+        ,"zh-Hant": "水平捲動計算公式"
     },
     "settings.devices.gamepad.invalid_formula": {
         "en": "Invalid formula"
         ,"ja": "無効な式"
         ,"zh-Hans": "无效公式"
+        ,"zh-Hant": "無效公式"
     },
     "settings.devices.gamepad.others": {
         "en": "Others"
         ,"ja": "その他"
         ,"zh-Hans": "其他"
+        ,"zh-Hant": "其他"
     },
     "settings.devices.gamepad.reset_formula": {
         "en": "Reset to the default formula"
         ,"ja": "デフォルトの式に戻す"
         ,"zh-Hans": "恢复为默认公式"
+        ,"zh-Hant": "重設為預設公式"
     },
     "settings.devices.gamepad.swap_sticks": {
         "en": "Swap gamepad XY and wheels sticks"
         ,"ja": "ゲームパッドのXYスティックとホイール用スティックを交換"
         ,"zh-Hans": "交换手柄的指针摇杆（XY）与滚动摇杆"
+        ,"zh-Hant": "交換手把的指標搖桿（XY）與捲動搖桿"
     },
     "settings.devices.gamepad.vertical_formula": {
         "en": "vertical wheel formula"
         ,"ja": "縦ホイールの式"
         ,"zh-Hans": "垂直滚动计算公式"
+        ,"zh-Hant": "垂直捲動計算公式"
     },
     "settings.devices.gamepad.wheels_stick": {
         "en": "Wheels stick"
         ,"ja": "ホイール用スティック"
         ,"zh-Hans": "滚动摇杆"
+        ,"zh-Hant": "捲動搖桿"
     },
     "settings.devices.gamepad.x_formula": {
         "en": "X formula"
         ,"ja": "X軸の式"
         ,"zh-Hans": "X 轴计算公式"
+        ,"zh-Hant": "X 軸計算公式"
     },
     "settings.devices.gamepad.xy_stick": {
         "en": "XY stick"
         ,"ja": "XYスティック"
         ,"zh-Hans": "指针摇杆（XY）"
+        ,"zh-Hant": "指標搖桿（XY）"
     },
     "settings.devices.gamepad.y_formula": {
         "en": "Y formula"
         ,"ja": "Y軸の式"
         ,"zh-Hans": "Y 轴计算公式"
+        ,"zh-Hant": "Y 軸計算公式"
     },
     "settings.devices.ignore_vendor_events": {
         "en": "Ignore vendor events"
         ,"ja": "ベンダー固有のイベントを無視"
         ,"zh-Hans": "忽略厂商自定义事件"
+        ,"zh-Hant": "忽略廠商自訂事件"
     },
     "settings.devices.internal_keyboard_trackpad": {
         "en": "Apple Internal Keyboard / Trackpad"
         ,"ja": "Apple内蔵キーボード / トラックパッド"
         ,"zh-Hans": "Apple 内建键盘 / 触控板"
+        ,"zh-Hant": "Apple 內建鍵盤 / 觸控板"
     },
     "settings.devices.logitech_hidpp_button_assignments": {
         "en": "Logitech HID++ button assignments"
         ,"ja": "Logitech HID++ ボタンの割り当て"
         ,"zh-Hans": "Logitech HID++ 按钮分配"
+        ,"zh-Hant": "Logitech HID++ 按鈕分配"
     },
     "settings.devices.modify_events": {
         "en": "Modify events"
         ,"ja": "イベントを変更"
         ,"zh-Hans": "修改事件"
+        ,"zh-Hant": "修改事件"
     },
     "settings.devices.mouse.discard_horizontal_wheel": {
         "en": "Discard mouse horizontal wheel"
         ,"ja": "マウスの横ホイールを無視"
         ,"zh-Hans": "忽略鼠标水平滚动"
+        ,"zh-Hant": "忽略滑鼠水平捲動"
     },
     "settings.devices.mouse.discard_vertical_wheel": {
         "en": "Discard mouse vertical wheel"
         ,"ja": "マウスの縦ホイールを無視"
         ,"zh-Hans": "忽略鼠标垂直滚动"
+        ,"zh-Hant": "忽略滑鼠垂直捲動"
     },
     "settings.devices.mouse.discard_x": {
         "en": "Discard mouse X"
         ,"ja": "マウスのX軸の移動を無視"
         ,"zh-Hans": "忽略鼠标 X 轴移动"
+        ,"zh-Hant": "忽略滑鼠 X 軸移動"
     },
     "settings.devices.mouse.discard_y": {
         "en": "Discard mouse Y"
         ,"ja": "マウスのY軸の移動を無視"
         ,"zh-Hans": "忽略鼠标 Y 轴移动"
+        ,"zh-Hant": "忽略滑鼠 Y 軸移動"
     },
     "settings.devices.mouse.flags": {
         "en": "Mouse Flags"
         ,"ja": "マウスの動作設定"
         ,"zh-Hans": "鼠标行为设置"
+        ,"zh-Hant": "滑鼠行為設定"
     },
     "settings.devices.mouse.flip_horizontal_wheel": {
         "en": "Flip mouse horizontal wheel"
         ,"ja": "マウスの横ホイールを反転"
         ,"zh-Hans": "反转鼠标水平滚动方向"
+        ,"zh-Hant": "反轉滑鼠水平捲動方向"
     },
     "settings.devices.mouse.flip_vertical_wheel": {
         "en": "Flip mouse vertical wheel"
         ,"ja": "マウスの縦ホイールを反転"
         ,"zh-Hans": "反转鼠标垂直滚动方向"
+        ,"zh-Hant": "反轉滑鼠垂直捲動方向"
     },
     "settings.devices.mouse.flip_x": {
         "en": "Flip mouse X"
         ,"ja": "マウスのX軸を反転"
         ,"zh-Hans": "反转鼠标 X 轴移动方向"
+        ,"zh-Hant": "反轉滑鼠 X 軸移動方向"
     },
     "settings.devices.mouse.flip_y": {
         "en": "Flip mouse Y"
         ,"ja": "マウスのY軸を反転"
         ,"zh-Hans": "反转鼠标 Y 轴移动方向"
+        ,"zh-Hant": "反轉滑鼠 Y 軸移動方向"
     },
     "settings.devices.mouse.multiplier": {
         "en": "Multiplier"
         ,"ja": "倍率"
         ,"zh-Hans": "倍率"
+        ,"zh-Hant": "倍率"
     },
     "settings.devices.mouse.swap_wheels": {
         "en": "Swap mouse wheels"
         ,"ja": "マウスの縦ホイールと横ホイールを交換"
         ,"zh-Hans": "交换鼠标水平滚动与垂直滚动"
+        ,"zh-Hant": "交換滑鼠水平捲動與垂直捲動"
     },
     "settings.devices.mouse.swap_xy": {
         "en": "Swap mouse X and Y"
         ,"ja": "マウスのX軸とY軸を交換"
         ,"zh-Hans": "交换鼠标 X 轴与 Y 轴移动"
+        ,"zh-Hant": "交換滑鼠 X 軸與 Y 軸移動"
     },
     "settings.devices.mouse.wheels_multiplier": {
         "en": "Wheels multiplier:"
         ,"ja": "ホイールの倍率:"
         ,"zh-Hans": "滚动倍率："
+        ,"zh-Hant": "捲動倍率："
     },
     "settings.devices.mouse.xy_multiplier": {
         "en": "XY movement multiplier:"
         ,"ja": "XY移動の倍率:"
         ,"zh-Hans": "鼠标指针移动倍率（XY）："
+        ,"zh-Hant": "滑鼠指標移動倍率（XY）："
     },
     "settings.devices.no_manufacturer_name": {
         "en": "No manufacturer name"
         ,"ja": "メーカー名なし"
         ,"zh-Hans": "无制造商名称"
+        ,"zh-Hant": "無製造商名稱"
     },
     "settings.devices.no_product_name": {
         "en": "No product name"
         ,"ja": "製品名なし"
         ,"zh-Hans": "无产品名称"
+        ,"zh-Hant": "無產品名稱"
     },
     "settings.devices.open_gamepad_settings": {
         "en": "Open game pad settings"
         ,"ja": "ゲームパッド設定を開く"
         ,"zh-Hans": "打开游戏手柄设置"
+        ,"zh-Hant": "開啟遊戲手把設定"
     },
     "settings.devices.open_mouse_settings": {
         "en": "Open mouse settings"
         ,"ja": "マウス設定を開く"
         ,"zh-Hans": "打开鼠标设置"
+        ,"zh-Hant": "開啟滑鼠設定"
     },
     "settings.devices.product_id": {
         "en": "Product ID: {decimal} ({hex})"
         ,"ja": "製品ID: {decimal}({hex})"
         ,"zh-Hans": "产品 ID：{decimal}（{hex}）"
+        ,"zh-Hant": "產品 ID：{decimal}（{hex}）"
     },
     "settings.devices.remove_disconnected": {
         "en": "Remove settings for currently disconnected devices ({count})"
         ,"ja": "現在接続されていないデバイスの設定を削除（{count}件）"
         ,"zh-Hans": "移除当前未连接设备的设置（{count} 项）"
+        ,"zh-Hant": "移除目前未連線裝置的設定（{count} 項）"
     },
     "settings.devices.serial_number": {
         "en": "Serial Number: {serial_number}"
         ,"ja": "シリアル番号: {serial_number}"
         ,"zh-Hans": "序列号：{serial_number}"
+        ,"zh-Hant": "序號：{serial_number}"
     },
     "settings.devices.swap_iso_keys": {
         "en": "Swap ISO layout-specific keys (e.g., `~ / §± / ^° / ² ↔ \\| / <>)"
         ,"ja": "ISO配列固有のキーを交換（例: `~ / §± / ^° / ² ↔ \\| / <>）"
         ,"zh-Hans": "交换 ISO 键盘布局特定按键（例如：`~ / §± / ^° / ² ↔ \\| / <>）"
+        ,"zh-Hant": "交換 ISO 鍵盤配置特定按鍵（例如：`~ / §± / ^° / ² ↔ \\| / <>）"
     },
     "settings.devices.transport": {
         "en": "Transport: {transport}"
         ,"ja": "接続方式: {transport}"
         ,"zh-Hans": "连接方式：{transport}"
+        ,"zh-Hant": "連線方式：{transport}"
     },
     "settings.devices.treat_as_built_in": {
         "en": "Treat as a built-in keyboard"
         ,"ja": "内蔵キーボードとして扱う"
         ,"zh-Hans": "视作内建键盘"
+        ,"zh-Hant": "視為內建鍵盤"
     },
     "settings.devices.vendor_events_hint": {
         "en": "It is recommended to enable \"Ignore vendor events\" for non-Apple devices"
         ,"ja": "Apple製以外のデバイスでは「ベンダー固有のイベントを無視」を有効にすることをおすすめします。"
         ,"zh-Hans": "建议对非 Apple 设备启用“忽略厂商自定义事件”"
+        ,"zh-Hant": "建議對非 Apple 裝置啟用「忽略廠商自訂事件」"
     },
     "settings.devices.vendor_id": {
         "en": "Vendor ID: {decimal} ({hex})"
         ,"ja": "ベンダーID: {decimal}({hex})"
         ,"zh-Hans": "厂商 ID：{decimal}（{hex}）"
+        ,"zh-Hant": "廠商 ID：{decimal}（{hex}）"
     }
 }

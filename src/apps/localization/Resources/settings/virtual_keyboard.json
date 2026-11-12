@@ -3,15 +3,18 @@
         "en": "Keyboard type"
         ,"ja": "キーボードの種類"
         ,"zh-Hans": "键盘类型"
+        ,"zh-Hant": "鍵盤類型"
     },
     "settings.virtual_keyboard.mouse_key": {
         "en": "Mouse key"
         ,"ja": "マウスキー"
         ,"zh-Hans": "鼠标键"
+        ,"zh-Hant": "滑鼠鍵"
     },
     "settings.virtual_keyboard.mouse_key_xy_scale": {
         "en": "Cursor speed:"
         ,"ja": "カーソル速度:"
         ,"zh-Hans": "鼠标指针移动速度："
+        ,"zh-Hant": "滑鼠指標移動速度："
     }
 }

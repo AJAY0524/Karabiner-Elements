@@ -3,10 +3,12 @@
         "en": "Launch uninstaller"
         ,"ja": "アンインストーラを起動"
         ,"zh-Hans": "启动卸载程序"
+        ,"zh-Hant": "啟動解除安裝程式"
     },
     "settings.uninstall.title": {
         "en": "Uninstall"
         ,"ja": "アンインストール"
         ,"zh-Hans": "卸载"
+        ,"zh-Hant": "解除安裝"
     }
 }

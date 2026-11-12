@@ -3,11 +3,13 @@
         "en": "Action"
         ,"ja": "操作"
         ,"zh-Hans": "操作"
+        ,"zh-Hant": "操作"
     },
     "settings.general.defaults.value": {
         "en": "(Default: {value})"
         ,"ja": "（デフォルト: {value}）"
         ,"zh-Hans": "（默认值：{value}）"
+        ,"zh-Hant": "（預設值：{value}）"
     },
     "settings.general.modifier_mappings.reset_hint": {
         "en": [
@@ -34,35 +36,49 @@
             "2. 选择“Karabiner DriverKit VirtualHIDKeyboard”。\n",
             "3. 点击“恢复默认”按钮。"
         ]
+        ,"zh-Hant": [
+            "macOS 也可以修改修飾鍵對應。",
+            "建議先回復預設值，再透過 Karabiner-Elements 進行設定。\n\n",
+            "可按以下步驟重設 macOS 設定：\n",
+            "1. 開啟「系統設定」，前往「鍵盤」 > 「鍵盤快速鍵…」 > 「修飾鍵」。\n",
+            "2. 選擇「Karabiner DriverKit VirtualHIDKeyboard」。\n",
+            "3. 點選「回復預設值」按鈕。"
+        ]
     },
     "settings.general.save.failed": {
         "en": "Save failed:\n{error}"
         ,"ja": "保存に失敗しました:\n{error}"
         ,"zh-Hans": "保存失败：\n{error}"
+        ,"zh-Hant": "儲存失敗：\n{error}"
     },
     "settings.general.shared.reorder_hint": {
         "en": "Drag this icon to reorder the list"
         ,"ja": "アイコンをドラッグしてリストを並べ替えられます"
         ,"zh-Hans": "拖动此图标可调整列表顺序"
+        ,"zh-Hant": "拖移此圖示可調整清單順序"
     },
     "settings.general.units.milliseconds": {
         "en": "milliseconds"
         ,"ja": "ミリ秒"
         ,"zh-Hans": "毫秒"
+        ,"zh-Hant": "毫秒"
     },
     "settings.general.units.percent": {
         "en": "%"
         ,"ja": "%"
         ,"zh-Hans": "%"
+        ,"zh-Hant": "%"
     },
     "settings.general.units.points": {
         "en": "pt"
         ,"ja": "pt"
         ,"zh-Hans": "pt"
+        ,"zh-Hant": "pt"
     },
     "settings.general.window.title": {
         "en": "Karabiner-Elements Settings"
         ,"ja": "Karabiner-Elementsの設定"
         ,"zh-Hans": "Karabiner-Elements 设置"
+        ,"zh-Hant": "Karabiner-Elements 設定"
     }
 }

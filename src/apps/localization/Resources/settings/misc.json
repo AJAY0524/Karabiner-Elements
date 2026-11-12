@@ -15,21 +15,29 @@
             "automatic_backups 文件夹中也保存了自动备份，",
             "可用其中一个备份覆盖 karabiner.json，恢复到之前的状态。"
         ]
+        ,"zh-Hant": [
+            "複製 karabiner.json 即可備份設定，或將設定移轉到另一台電腦。",
+            "automatic_backups 資料夾中也儲存了自動備份，",
+            "可用其中一個備份覆蓋 karabiner.json，回復到之前的狀態。"
+        ]
     },
     "settings.misc.enable_multitouch_extension": {
         "en": "Enable Multitouch Extension"
         ,"ja": "マルチタッチ拡張を有効にする"
         ,"zh-Hans": "启用多点触控扩展（Multitouch Extension）"
+        ,"zh-Hant": "啟用多點觸控延伸功能（Multitouch Extension）"
     },
     "settings.misc.export_import": {
         "en": "Export & Import"
         ,"ja": "エクスポートとインポート"
         ,"zh-Hans": "导出与导入"
+        ,"zh-Hant": "匯出與匯入"
     },
     "settings.misc.install_system_default": {
         "en": "Copy the current configuration to the system default configuration"
         ,"ja": "現在の設定をシステムのデフォルト設定にコピー"
         ,"zh-Hans": "将当前配置复制为系统默认配置"
+        ,"zh-Hant": "將目前設定檔複製為系統預設設定檔"
     },
     "settings.misc.multitouch_machine_specific": {
         "en": [
@@ -46,36 +54,47 @@
             "将 Karabiner-Elements 设置导入另一台 Mac 时，",
             "多点触控扩展的启用状态不会随之迁移。"
         ]
+        ,"zh-Hant": [
+            "此設定專用於目前硬體。",
+            "將 Karabiner-Elements 設定匯入另一台 Mac 時，",
+            "多點觸控延伸功能的啟用狀態不會隨之移轉。"
+        ]
     },
     "settings.misc.multitouch_menu_hint": {
         "en": "You can also open the Multitouch Extension settings from the menu."
         ,"ja": "マルチタッチ拡張の設定はメニューからも開けます。"
         ,"zh-Hans": "也可以从菜单栏打开多点触控扩展设置。"
+        ,"zh-Hant": "也可以從選單列開啟多點觸控延伸功能設定。"
     },
     "settings.misc.multitouch_title": {
         "en": "Extra tool: Multitouch Extension"
         ,"ja": "追加ツール: マルチタッチ拡張"
         ,"zh-Hans": "附加工具：多点触控扩展"
+        ,"zh-Hant": "附加工具：多點觸控延伸功能"
     },
     "settings.misc.no_system_default": {
         "en": "System default configuration is not set."
         ,"ja": "システムのデフォルト設定は設定されていません。"
         ,"zh-Hans": "尚未设置系统默认配置。"
+        ,"zh-Hant": "尚未設定系統預設設定檔。"
     },
     "settings.misc.open_config_folder": {
         "en": "Open config folder"
         ,"ja": "設定フォルダーを開く"
         ,"zh-Hans": "打开配置文件夹"
+        ,"zh-Hant": "開啟設定檔資料夾"
     },
     "settings.misc.remove_system_default": {
         "en": "Remove the system default configuration"
         ,"ja": "システムのデフォルト設定を削除"
         ,"zh-Hans": "移除系统默认配置"
+        ,"zh-Hant": "移除系統預設設定檔"
     },
     "settings.misc.system_default": {
         "en": "System default configuration"
         ,"ja": "システムのデフォルト設定"
         ,"zh-Hans": "系统默认配置"
+        ,"zh-Hant": "系統預設設定檔"
     },
     "settings.misc.system_default_hint": {
         "en": [
@@ -89,6 +108,10 @@
         ,"zh-Hans": [
             "设置系统默认配置后，登录前也能使用 Karabiner-Elements。",
             "（此操作需要管理员权限）"
+        ]
+        ,"zh-Hant": [
+            "設定系統預設設定檔後，登入前也能使用 Karabiner-Elements。",
+            "（此操作需要管理員權限）"
         ]
     }
 }

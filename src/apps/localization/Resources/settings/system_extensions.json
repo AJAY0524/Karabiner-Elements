@@ -3,10 +3,12 @@
         "en": "macOS log messages"
         ,"ja": "macOSのログメッセージ"
         ,"zh-Hans": "macOS 日志消息"
+        ,"zh-Hant": "macOS 記錄訊息"
     },
     "settings.system_extensions.states": {
         "en": "System extension states"
         ,"ja": "システム拡張の状態"
         ,"zh-Hans": "系统扩展状态"
+        ,"zh-Hant": "系統延伸功能狀態"
     }
 }
